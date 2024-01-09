@@ -9,6 +9,6 @@ don't answer me
 
 ![image](https://github.com/Fidget840/hello-world/assets/156030259/b0884723-7b2f-42d9-bf48-bbe6d589aa4f)
 
-<audio controls id="musicPlayer">
-	<source src="https://www.kozco.com/tech/piano2-Audacity1.2.5.mp3" autoplay="false" width="400" height="300" name="musicPlayer" id="musicPlayer">
+<audio controls autoplay id="musicPlayer">
+	<source src="https://youtu.be/yU2GqcjJcdM?feature=shared" autoplay="true" width="400" height="300" name="musicPlayer" id="musicPlayer">
 </audio>
